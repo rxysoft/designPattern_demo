@@ -14,7 +14,10 @@ public class documentIntroduction {
       javax.xml.bind.annotation.adapters.XmlAdapter#marshal()
       javax.xml.bind.annotation.adapters.XmlAdapter#unmarshal()
       android开发中，ListView、RecyclerView等列表展示组件填充数据都会用到Adapter，这里面的Source相当于Datas，Destination相当于Views，然后Adapter去协调数据与显示。
-     * 
+     *3适配器模式类型
+     *类适配器模式
+     *对象适配器模式
+     *接口适配器模式(适配器可以是接口，被适配者也可以是接口) 
      * 
      * 
      * 
